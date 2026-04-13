@@ -19,4 +19,4 @@ function Exemplo02() {
   )
 }
 
-export default Exemplo02
+export default Exemplo02 ;

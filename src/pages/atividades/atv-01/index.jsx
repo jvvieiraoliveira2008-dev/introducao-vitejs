@@ -1,4 +1,4 @@
-import styles from './index.modules.css';
+import styles from './index.module.css';
 
 function Atividades01() {
      return (
