@@ -9,10 +9,6 @@ export default function Exemplo03() {
     function handleIncrementa () {
         setNum(num + 1);
     }
-     function handleIncrementa () {
-        setNum(num - 1);
-    }
-
 
     return (
         <div className={styles.container}>
@@ -21,6 +17,7 @@ export default function Exemplo03() {
                 onClick={() => handleIncrementa()}
                 className={styles.botao}
             >+1</label>
+            
         </div>
     );
 }

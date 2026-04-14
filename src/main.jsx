@@ -4,6 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 import App from './App.jsx';
 
+
 import './estilizacao/reset.css';
 import './estilizacao/globals.css';
 
