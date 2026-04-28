@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import styles from './index.module.css';
 
- export default function Atividades02() {
+  function Atividade02() {
 
     const [num, setNum] = useState(100);
 
@@ -39,4 +39,4 @@ import styles from './index.module.css';
         </div>
     );
 }
-
+ export default Atividade02

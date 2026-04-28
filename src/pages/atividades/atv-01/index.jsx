@@ -1,6 +1,6 @@
 import styles from './index.module.css';
 
-function Atividades01() {
+function Atividade01() {
      return (
      <div className={styles.conteiner}>
           
@@ -15,4 +15,4 @@ function Atividades01() {
    )
 }
 
-export default Atividades01;
+export default Atividade01;
