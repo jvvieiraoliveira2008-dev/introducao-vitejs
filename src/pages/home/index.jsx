@@ -21,9 +21,9 @@ function Home() {
 
 
             
-               <Link to="/atvidades/1">Atividade 1 - Uso de CSS</Link>
-               <Link to="/atvidades/2">Atividade 2 - botão </Link>
-                <Link to="/atvidades/3">Atividade 3 - botao personalizado</Link>
+               <Link to="/atividades/1">Atividade 1 - Uso de CSS</Link>
+               <Link to="/atividades/2">Atividade 2 - botão </Link>
+                <Link to="/atividades/3">Atividade 3 - botao personalizado</Link>
 
 
             </div>

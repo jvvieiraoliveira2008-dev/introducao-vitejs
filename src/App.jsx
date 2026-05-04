@@ -24,9 +24,9 @@ function App() {
       <Route path="/exemplo/4" element={<Exemplo04 />} />
       
 
-       <Route path="/Atividades/1" element={<Atividade01 />} />
-       <Route path="/Atividades/2" element={<Atividade02 />} />
-       <Route path="/Atividades/3" element={<Atividade03 />} />
+       <Route path="/atividades/1" element={<Atividade01 />} />
+       <Route path="/atividades/2" element={<Atividade02 />} />
+       <Route path="/atividades/3" element={<Atividade03 />} />
 
     </Routes>
   )
